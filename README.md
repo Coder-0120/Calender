@@ -41,5 +41,5 @@ Inspired by a physical wall calendar design, this project combines clean UI with
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Coder-0120/calendar.git
-cd calendar
+git clone https://github.com/Coder-0120/Calendar.git
+cd Calendar
